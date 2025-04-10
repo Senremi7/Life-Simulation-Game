@@ -8,6 +8,8 @@ Member:
 
 Video Demonstrasi:
 https://drive.google.com/file/d/15bzm6vWzTpdcjXFm_Uplyd3GLveCDC8I/view
+atau
+https://drive.google.com/drive/folders/1_6hy_XrELluLot9i1nn4MylKSLCXp5bm?usp=sharing
 
 GitHub Source Code:
 https://github.com/Senremi7/Life-Simulation-Game
