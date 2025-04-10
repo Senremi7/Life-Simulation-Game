@@ -2,9 +2,18 @@
 UTS PTI
 
 Member:
-Jeremiah Ephraim Jonathan (Website game)
-Damianus Lowa Mite (Mengatur Resposive website) 
-Dhimas Alkautsar Putra Alif Viano (Video Demonstrasi)
+- Jeremiah Ephraim Jonathan, 00000140764 (Website game)
+- Damianus Lowa Mite (Mengatur Resposive website) 
+- Dhimas Alkautsar Putra Alif Viano (Video Demonstrasi)
+
+Video Demonstrasi:
+https://drive.google.com/file/d/15bzm6vWzTpdcjXFm_Uplyd3GLveCDC8I/view
+
+GitHub Source Code:
+https://github.com/Senremi7/Life-Simulation-Game
+
+GitHub Live Host:
+https://senremi7.github.io/Life-Simulation-Game/
 
 Game Rules:
 Core Game Mechanics:
